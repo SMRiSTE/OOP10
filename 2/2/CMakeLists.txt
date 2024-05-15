@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.22.0)
+project(SayBye)
+set(CMAKE_WINDOWS_EXPORT_ALL_SYMBOLS ON)
+add_library(SayByeDynLib SHARED SayBye.h SayBye.cpp)
+add_executable(SayByeExe 2.cpp)
+target_link_libraries(SayByeExe SayByeDynLib)

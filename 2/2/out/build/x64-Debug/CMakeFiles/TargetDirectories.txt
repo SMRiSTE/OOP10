@@ -1,0 +1,4 @@
+D:/netoC++OOP/11/2/2/out/build/x64-Debug/CMakeFiles/SayByeDynLib.dir
+D:/netoC++OOP/11/2/2/out/build/x64-Debug/CMakeFiles/SayByeExe.dir
+D:/netoC++OOP/11/2/2/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/netoC++OOP/11/2/2/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
